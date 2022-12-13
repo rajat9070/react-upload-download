@@ -1,0 +1,30 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "7.20.2",
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@mui/icons-material": "5.10.16",
+    "@mui/material": "5.10.13",
+    "@mui/system": "5.10.13",
+    "@mui/x-data-grid": "5.17.10",
+    "@mui/x-data-grid-generator": "5.17.15",
+    "@types/react": "18.0.25",
+    "file-saver": "2.0.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-file-drop": "^3.1.6",
+    "sheetjs-style": "0.15.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
